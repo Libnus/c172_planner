@@ -13,4 +13,6 @@ altitude measurements!
 -Calculates furl brun and fuel needed, timings between waypoints and navaids!
 
 ## NOTE::
+This requires access to NAVAID files that include waypoints and airport data from every airport in the world.
+
 I AM NOT AT LIBERTY TO RELEASE THE NAVAID AND WAYPOINT DATA!!! I GOT IT FROM NAVIGRAPH WHICH IS A MONTHLY SUBSCRIPTION!!
